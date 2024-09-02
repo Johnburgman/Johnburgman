@@ -24,7 +24,7 @@ I'm a passionate **Data Analyst** and **Web Developer** 🚀 from Nairobi, Kenya
 💬 Ask me about anything tech-related; I’m always happy to help.  
 📫 You can find me at:
 
-- **[LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/johnburgman-onyango/))**
-- **[Portfolio Website]([https://yourwebsite.com](https://johnburgman.myportfolio.link/))**
+- **[LinkedIn](https://www.linkedin.com/in/johnburgman-onyango/)**
+- **[Portfolio Website](https://johnburgman.myportfolio.link/)**
 
 Looking forward to connecting with you!
