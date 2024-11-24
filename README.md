@@ -15,7 +15,23 @@ I'm a passionate **Data Analyst** and **Web Developer** 🚀 from Nairobi, Kenya
   <img src="https://media.giphy.com/media/yebIrQaY9wFR7Fy1eb/giphy.gif?cid=790b7611fsu2pg92rd8h0dxfdx1rochihzlbbcbnjfvy1pvd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="600" />
 </p>
 
-*Just a glimpse of me visualizing away on my latest project!*
+*Just a glimpse of me visualizing away on my latest projects!*
+
+Projects Completed at Turing College
+Here are some of the key projects I successfully completed as part of my Data Analytics studies:
+
+[Structured Approach to Data Analytics](https://github.com/TuringCollegeSubmissions/jonyan-IDA2.1.3)  
+[Utilizing Spreadsheets for Data Analytics](https://github.com/TuringCollegeSubmissions/jonyan-IDA2.2.5)  
+[SQL and Databases](https://github.com/TuringCollegeSubmissions/jonyan-IDA2.3.4)  
+[Advanced SQL and Databases](https://github.com/TuringCollegeSubmissions/jonyan-IDA2.4.3)  
+[Visualizing Data Using Tableau](https://github.com/TuringCollegeSubmissions/jonyan-CAR.TAB.1.5)  
+[Presentation & Soft Skills](https://github.com/TuringCollegeSubmissions/jonyan-CAR.TAB.2.3)  
+[Retention, Cohorts & Churn](https://github.com/TuringCollegeSubmissions/jonyan-MAT2.1.3)  
+[Funnels](https://github.com/TuringCollegeSubmissions/jonyan-MAT2.2.2)  
+[CLV, Customer & RFM](https://github.com/TuringCollegeSubmissions/jonyan-MAT2.3.4)  
+[Statistical Inference & A/B Testing](https://github.com/TuringCollegeSubmissions/jonyan-MAT2.4.6)  
+
+Each project demonstrates my ability to analyze, visualize, and present data-driven insights effectively.
 
 ## Talking about personal stuff:
 
@@ -25,6 +41,7 @@ I'm a passionate **Data Analyst** and **Web Developer** 🚀 from Nairobi, Kenya
 📫 You can find me at:
 
 - **[LinkedIn](https://www.linkedin.com/in/johnburgman-onyango/)**
-- **[Portfolio Website](https://johnburgman.myportfolio.link/)**
 
 Looking forward to connecting with you!
+
+
