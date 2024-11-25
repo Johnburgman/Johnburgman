@@ -18,6 +18,7 @@ I'm a passionate **Data Analyst** and **Web Developer** 🚀 from Nairobi, Kenya
 *Just a glimpse of me visualizing away on my latest projects!*
 
 Projects Completed at Turing College
+
 Here are some of the key projects I successfully completed as part of my Data Analytics studies:
 
 [Structured Approach to Data Analytics](https://github.com/TuringCollegeSubmissions/jonyan-IDA2.1.3)  
